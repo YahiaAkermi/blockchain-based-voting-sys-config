@@ -1,7 +1,3 @@
-spring:
-  config:
-    activate:
-      on-profile: "prod"
 voting-managment:
   message: "Welcome to Voting Managment service related prod APIs "
   contactDetails:
